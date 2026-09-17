@@ -1,0 +1,6 @@
+{
+  "name": "REXYY",
+  "description": "Personal AI voice assistant for Sagar Sir with voice recognition, OpenAI integration, Android actions, reminders, and root capability detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
